@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780362264949",
+    "project_id": "memo-edf72",
+    "storage_bucket": "memo-edf72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780362264949:android:3f79821bf5700db4c4e33c",
+        "android_client_info": {
+          "package_name": "com.example.qwer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOAgjdTWqnIQ_BAtLy0b_ItFoQTC8BYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
